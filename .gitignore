@@ -1,0 +1,9 @@
+
+db.php
+phpinfo.php
+testdb.php
+formtest.php
+.env
+.env.*
+*.sql
+*.sql.gz
